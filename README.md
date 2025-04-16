@@ -44,6 +44,10 @@ Before running this app, make sure you have the following installed:
     ```
 
 4. Open the provided URL in your browser to interact with the app.
+   
+### 🖼 Example Screenshot
+
+<img src="https://github.com/shane-thomas/pdf-chat-rag/blob/main/example.png?raw=true" alt="Example Screenshot" width="600"/>
 
 ## How It Works
 
