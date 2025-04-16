@@ -47,7 +47,7 @@ Before running this app, make sure you have the following installed:
    
 ### 🖼 Example Screenshot
 
-<img src="https://github.com/shane-thomas/pdf-chat-rag/blob/main/example.png?raw=true" alt="Example Screenshot" width="600"/>
+<img src="https://github.com/shane-thomas/pdf-chat-rag/blob/main/screenshot?raw=true" alt="Example Screenshot" width="800"/>
 
 ## How It Works
 
