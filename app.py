@@ -1,7 +1,8 @@
 import streamlit as st
 import main as main
 
-st.title("Chat with PDFs 📚 ")
+st.title("Hello, Shane!")
+st.subheader("Chat with your PDFs 📚 ")
 
 uploaded_file = st.file_uploader(
     "Upload your PDF",
